@@ -9,7 +9,7 @@ Give the div a "btn-wrapper" class.
 }
 
 .logo-img {
-    display: block;
+/*     display: block; */
     width: 300px;
     margin-bottom: 20px;
     margin-left: auto;
